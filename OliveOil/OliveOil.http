@@ -1,0 +1,6 @@
+@OliveOil_HostAddress = http://localhost:5182
+
+GET {{OliveOil_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
